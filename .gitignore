@@ -3,6 +3,7 @@
 .venv/
 .local/
 .planning/
+AGENTS.md
 *.session
 __pycache__/
 *.pyc

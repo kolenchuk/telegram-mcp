@@ -1,0 +1,8 @@
+.env
+.env.local
+.venv/
+.local/
+.planning/
+*.session
+__pycache__/
+*.pyc
